@@ -1,0 +1,7 @@
+base
+fakeroot
+git
+man-db
+man-pages
+pacman-contrib
+vim
